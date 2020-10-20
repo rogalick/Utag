@@ -16,7 +16,7 @@ If you do not have ```CMAKE_PREFIX_PATH``` you can fix it in 2 ways:
 ##### Second step
     ./build.sh
 ### Run
-    ./utag [directory]
+    ./utag
 
 
 ## App features
